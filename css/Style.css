@@ -7,12 +7,12 @@ Body {
     justify-content: center;
 }
 #cointaner {
-    width: 500px;
+    width: 70%;
     height: auto;
     text-align: left;
     font-size: 16px;
     margin: 1px;
-    border: 1px black solid;
+    border: 0.6px black solid;
     padding: 2px;
     
     
